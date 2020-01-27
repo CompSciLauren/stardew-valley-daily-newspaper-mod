@@ -1,0 +1,9 @@
+﻿{
+  "Name": "Daily Newspaper",
+  "Author": "CompSciLauren",
+  "Version": "0.0.1",
+  "Description": "Subscribe to a newspaper that gets sent to your doorstep each day.",
+  "UniqueID": "CompSciLauren.DailyNewspaper",
+  "EntryDll": "DailyNewspaper.dll",
+  "MinimumApiVersion": "2.10.0"
+}
